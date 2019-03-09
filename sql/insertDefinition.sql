@@ -1,0 +1,1 @@
+script=insert into tblDefinitions values (default,?,?)

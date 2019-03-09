@@ -1,0 +1,1 @@
+script=select count(*) from tblDefinitions d where d.term_id = ?

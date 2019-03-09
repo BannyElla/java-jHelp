@@ -1,0 +1,1 @@
+script=delete from tblDefinitions where id = ?

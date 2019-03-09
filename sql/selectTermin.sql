@@ -1,0 +1,1 @@
+script=select id, term from tblTerms where lower(term) like lower(?)

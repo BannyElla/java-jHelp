@@ -1,0 +1,1 @@
+script=delete from tblTerms where id = ?
