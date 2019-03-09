@@ -1,2 +1,2 @@
-# java-jHelp
-Multi-threaded network application with database access
+# Multi-threaded network application with database access
+The description coming soon...
